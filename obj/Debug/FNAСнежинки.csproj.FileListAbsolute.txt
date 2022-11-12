@@ -1,0 +1,12 @@
+D:\3 курс\Коноплев\FNAСнежинки\bin\Debug\FNAСнежинки.exe.config
+D:\3 курс\Коноплев\FNAСнежинки\bin\Debug\FNAСнежинки.exe
+D:\3 курс\Коноплев\FNAСнежинки\bin\Debug\FNAСнежинки.pdb
+D:\3 курс\Коноплев\FNAСнежинки\bin\Debug\FNA.dll
+D:\3 курс\Коноплев\FNAСнежинки\obj\Debug\FNAСнежинки.csproj.AssemblyReference.cache
+D:\3 курс\Коноплев\FNAСнежинки\obj\Debug\FNAСнежинки.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\Коноплев\FNAСнежинки\obj\Debug\FNAСнежинки.csproj.CoreCompileInputs.cache
+D:\3 курс\Коноплев\FNAСнежинки\obj\Debug\FNAСнежинки.csproj.CopyComplete
+D:\3 курс\Коноплев\FNAСнежинки\obj\Debug\FNAСнежинки.exe
+D:\3 курс\Коноплев\FNAСнежинки\obj\Debug\FNAСнежинки.pdb
+D:\3 курс\Коноплев\FNAСнежинки\bin\Debug\Content\снег.png
+D:\3 курс\Коноплев\FNAСнежинки\bin\Debug\Content\фон.jpg
